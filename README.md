@@ -1,4 +1,4 @@
-# Jurassic World Reborn II
+# Jurassic World Reborn II LITE
 
 ![Welcome to JWR II LITE](https://i.pinimg.com/originals/1d/c9/41/1dc94136fe02dcfb8bcc07dc04f16a28.png)
 
