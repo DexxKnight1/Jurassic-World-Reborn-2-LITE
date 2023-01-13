@@ -8,7 +8,7 @@ This is the official repository and issue-tracker for **J**urassic **W**orld **R
 
 ## About the pack:
 
-This pack is a ***LITE*** version of my modpack ***Jurassic World Reborn II***. This version of the pack is for those who have older/lower-end computers. This JWR 2 lite version is reconstructed as light weight as possible with a limit of 223 mods. However the main features from the main pack is still in.
+This pack is a **LITE** version of my modpack **Jurassic World Reborn II**. This version of the pack is for those who have older/lower-end computers. This JWR 2 lite version is reconstructed as light weight as possible with a limit of **223** mods. However the main features from the main pack is still in.
 
 If you have a newer/high-end PC, then try out **Jurassic World Reborn II**, also i would recommend to try that pack out first to see how your pc handle it. If there are issues, then this version of the pack is for you.
 
