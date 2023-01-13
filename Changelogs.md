@@ -1,0 +1,338 @@
+# [JWR2LITE-v5.0.0] - 2023.01.07
+### Added
+- Added Building Gadgets
+- Added In Control!
+- Added Improvable Skills 3
+- Added Hammer Lib
+- Added CensoredASM
+- Added MixinBooter
+- Added Paintings ++
+- Added Get It Together, Drops!
+- Added My Server Is Compatible
+- Added Tinkers OreDict Cache
+- Added TOP Extras
+- Added Dark Utilities
+- Added Lootr
+- Added FastWorkbench
+- Added FastFurnace
+- Added Yet Another Recipe Conflict Fixer (YARCF)
+- Added Sound Device Options
+- Added Mod Name Tooltip
+- Added Simply Light
+- Added ModTweaker
+- Added MoreTweaker
+- Added Solar Flux Reborn
+- Added RFTools Power
+- Added XNet
+- Added Refined Storage
+- Added Refined Storage Addons
+- Added Reborn Storage
+- Added Reborn Core
+- Added Tinkers' Addons
+- Added Adventure Tools
+### Changed
+- Updated Chunk-Pregenerator
+- Updated Corail Tombstone
+- Updated CraftTweaker
+- Updated Electroblob's Wizardry
+- Updated Entity Culling
+- Updated FoamFix
+- Updated Fossils and Archeology: Revival
+- Updated MrCrayfish's Furniture Mod
+- Updated Prehistoric Nature
+- Updated Prehistoric Nature Integration
+- Updated ReAuth
+- Updated The Betweenlands
+### Removed
+- Removed Additional Banners
+- Removed Aquaculture 2
+- Removed Aroma1997Core
+- Removed Aroma1997s Dimensional World
+- Removed AromaBackup
+- Removed Better Invisibility
+- Removed Better Survival mod
+- Removed Bigger Packets Please
+- Removed Birds Nests
+- Removed Carry On
+- Removed Champions
+- Removed Classic Combat
+- Removed CoroUtil
+- Removed Dynamic Surroundings: HUDs
+- Removed Elenai Dodge 2
+- Removed Entity NaN Health Fix
+- Removed EverlastingAbilities
+- Removed EverlastingAbilities-PotionCore
+- Removed Exchangers
+- Removed Forbidden and Arcanus
+- Removed Future MC
+- Removed Grimoire of Gaia
+- Removed Grimoire of Gaia: Redux
+- Removed Ice and Fire: Dragons
+- Removed Inventory Pets
+- Removed Just Enough Calculation
+- Removed MegaLoot
+- Removed Mowzie's Mobs
+- Removed Mystical World
+- Removed MysticalLib
+- Removed Natura
+- Removed Oh The Biomes You'll Go
+- Removed Painting Selection Gui Revamped
+- Removed Passable Leaves
+- Removed Plants
+- Removed Potion Core
+- Removed Project Red - Compat
+- Removed Project Red - Core
+- Removed Project Red - Expansion
+- Removed Project Red - Exploration
+- Removed Project Red - Fabrication
+- Removed Project Red - Illumination
+- Removed Project Red - Integration
+- Removed Reload Audio Driver (RAD)
+- Removed Roots
+- Removed Sampler
+- Removed ShetiPhianCore
+- Removed SignEdit
+- Removed Spartan and Fire
+- Removed SuperMartijn642's Config Lib
+- Removed SuperMartijn642's Core Lib
+- Removed stimmedcow : NoMoreRecipeConflict
+- Removed Terraqueous
+- Removed Tumbleweed
+- Removed Unifine
+- Removed VanillaFix
+- Removed Zombie Awareness
+- Removed Just Enough Reactors
+- Removed Just Enough HarvestCraft (JEHC)
+- Removed JEI Hider
+- Removed Just Enough Throwing In Fluids (JETIF)
+- Removed Just Enough Energistics (JEE)
+- Removed Block Drops (JEI Addon)
+- Removed Applied Energistics 2
+- Removed AE2 Fluid Crafting
+- Removed AE2 Stuff
+- Removed AE2 Wireless Terminal Library
+- Removed Wireless Crafting Terminal
+- Removed PlaneFix
+- Removed ThermalLogistics
+- Removed Storage Drawers Extras
+- Removed Electroblob's Wizardry: Twilight Forest Spell Pack
+- Removed Extra Spells (Electroblob's Wizardry)
+- Removed Ancient Spellcraft
+- Removed Blur
+- Removed Builder's Bag
+- Removed ExtraDiscs
+- Removed Hunter illager
+- Removed Iblis Headshots
+- Removed KleeSlabs
+- Removed Roguelike Dungeons
+- Removed GottschCore
+- Removed Treasure2: Twilight Forest Loot Pack
+- Removed Treasure2: Wizardry Loot Pack
+- Removed Treasure2!
+- Removed WAIM - What am I missing?
+- Removed WHAT - Fluid Fix
+- Removed Modular Powersuits
+- Removed The Aether II
+- Removed The Erebus
+- Removed ErebusFix
+- Removed Atum 2: Return to the Sands
+- Removed Better Hurt Timer
+- Removed Better Placement
+- Removed Better Third Person
+- Removed BetterBedrockGen
+- Removed Decocraft
+- Removed PTRLib
+- Removed Disenchanter
+- Removed MalisisDoors
+- Removed MalisisCore
+# [JWR2LITE-v4.2.0] - 2022.05.12
+### Added
+- Added BisectHosting Server Integration Menu
+- Added Oh The Biomes You'll Go
+- Added Open Glider
+- Added MrCrayfish's Furniture Mod
+- Added MrCrayfish's Vehicle Mod
+- Added Obfuscate
+- Added Grimoire of Gaia
+- Added Grimoire of Gaia: Redux
+### Changed
+- Updated Ancient Spellcraft
+- Updated BiblioCraft
+- Updated Camera Mod
+- Updated Chunk-Pregenerator
+- Updated Corail Tombstone
+- Updated CraftTweaker
+- Updated CreativeCore
+- Updated Electroblob's Wizardry
+- Updated Entity Culling
+- Updated Future MC
+- Updated GottschCore
+- Updated Spartan Weaponry
+- Updated SuperMartijn642's Config
+- Updated Treasure2!
+- Updated WanionLib
+# [JWR2LITE-v4.1.0] - 2022.01.27
+### Fixed
+- Fixed Server Files
+### Added
+- Added The One Probe
+- Added TOP Addons
+- Added Prehistoric Nature Integration
+- Added MalisisDoors
+- Added MalisisCore
+- Added Nature's Compass
+- Added Fix Experience Bug
+- Added Fire Spread Tweaks
+- Added FTB Ultimine
+- Added No Recipe Book
+- Added Forbidden and Arcanus
+- Added Apotheosis
+- Added Aquaculture 2
+- Added Better Third Person
+- Added Future MC
+- Added Random Things
+- Added Champions
+- Added Passable Leaves
+- Added Corail Tombstone
+- Added Waystones
+- Added Botania
+- Added Astral Sorcery
+- Added Comforts
+- Added Electroblob's Wizardry: Twilight Forest Spell Pack
+- Added The Twilight Forest
+- Added Atum 2: Return to the Sands
+- Added The Aether II
+- Added The Erebus
+- Added The Betweenlands
+- Added Chunk-Pregenerator
+- Added Mowzie's Mobs
+- Added Ranged Pumps
+- Added Mystical World
+- Added Roots
+- Added Treasure2!
+- Added Treasure2: Wizardry Loot Pack
+- Added Treasure2: Twilight Forest Loot Pack
+- Added GottschCore
+### Changed
+- Changed Forge version to 14.23.5.2860
+- Updated AE2 Fluid Crafting
+- Updated AI Reducer
+- Updated Ancient Spellcraft
+- Updated Biomes O' Plenty
+- Updated Carry On
+- Updated Collective
+- Updated CraftTweaker
+- Updated CreativeCore
+- Updated Disenchanter (The Disenchanter Mod)
+- Updated Entity Culling
+- Updated Just Enough Calculation
+- Updated JustEnoughIDs
+- Updated ModDirector
+- Updated MysticalLib
+- Updated Performant
+- Updated Prehistoric Nature
+- Updated So Many Enchantments
+- Updated Spartan Shields
+- Updated Spartan Weaponry
+- Updated Torchmaster
+- Updated UniDict
+### Removed
+- Removed Surge
+- Removed Tough As Nails
+- Removed ToroHealth Damage Indicators
+- Removed ToroHUD
+- Removed Hwyla
+- Removed Waila Harvestability
+- Removed Wawla - What Are We Looking At
+- Removed Jade 🔍
+- Removed Recurrent Complex
+- Removed IvToolkit
+- Removed ISeeDragons
+# [JWR2LITE-v3.0.0] - 2021.08.29
+### Changed
+- Updated Jurassic World Reborn Mod
+- Updated Ancient Spellcraft
+- Updated Collective
+- Updated CraftTweaker
+- Updated CreativeCore
+- Updated Disenchanter (The Disenchanter Mod)
+- Updated DupeFix Project
+- Updated MixinBootstrap
+- Updated MysticalLib
+- Updated Tesla Core Lib
+- Updated Weaker Spiderwebs
+- Updated SuperMartijn642's Config Lib
+- Updated SuperMartijn642's Core Lib
+# [JWR2LITE-v2.9.0] - 2021.07.17
+### Added
+- Added ModDirector
+- Added Shut Up, Model Loader!
+- Added Entity NaN Health Fix
+- Added DupeFix Project
+- Added WHAT - Fluid Fix
+- Added Entity Culling
+- Added Dynamic View
+- Added Sampler
+- Added FPS Reducer
+- Added Unifine
+- Added Performant
+- Added Bigger Packets Please
+- Added PlaneFix
+- Added Mixin 0.7-0.8 Compatibility
+- Added Iblis Headshots
+- Added Loading Screens
+- Added Better Hurt Timer
+- Added ThermalLogistics
+- Added AE2 Fluid Crafting
+- Added Bring Me The Rings!
+- Added FastFlyBlockBreaking
+### Changed
+- Updated Prehistoric Flora
+- Updated CraftTweaker
+- Updated SuperMartijn642's Core Lib
+# [JWR2LITE-v2.8.0] - 2021.07.08
+### Added
+- Added Jurassic World Reborn
+### Changed
+- Updated /dank/null
+- Updated Biomes O' Plenty
+- Updated CraftTweaker
+- Updated Just Enough Items (JEI)
+- Updated Mouse Tweaks
+- Updated Tough As Nails
+- Updated Aroma1997Core
+- Updated Aroma1997s Dimensional World
+- Updated AromaBackup
+- Updated Dynamic Surroundings
+- Updated So Many Enchantments
+- Updated SuperMartijn642's Config Lib
+- Updated SuperMartijn642's Core Lib
+### Removed
+- Removed Prehistoric Spawns- A Fossils and Archeology Revival add-on
+# [JWR2LITE-v2.7.0] - 2021.06.13
+### Added
+- Added Tough As Nails
+- Added JustEnoughIDs
+- Added Easy Shulker Access
+- Added Elenai Dodge 2
+- Added Builder's Bag
+### Changed
+- Updated Carry On
+- Updated Collective
+- Updated CraftTweaker
+- Updated Decocraft
+- Updated PTRLib
+- Updated CreativeCore
+- Updated UniDict
+- Updated FoamFix
+- Updated Just Enough Calculation
+- Updated Prehistoric Flora
+- Updated Ender IO
+- Updated MTLib
+- Updated Inventory Pets
+- Updated MysticalLib
+- Updated Simple Magnets
+- Updated Simply Jetpacks 2
+- Updated SuperMartijn642's Config Lib
+### Removed
+- Removed RealSurvivor

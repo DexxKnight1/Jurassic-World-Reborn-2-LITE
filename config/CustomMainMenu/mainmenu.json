@@ -1,0 +1,256 @@
+{
+    "images":
+    {
+        "title":
+        {
+            "image" : "modpack:refresh.png",
+            "posX" : -50,
+            "posY" : 270,
+            "width" : 95,
+            "height" : 25,
+			"imageWidth" : 543,
+			"imageHeight" : 197,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "singleplayer":
+        {
+            "text" : "menu.singleplayer",
+			"texture" : "modpack:button.png",
+            "posX" : -90,
+            "posY" : 56,
+            "width" : 85,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -2,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "multiplayer":
+        {
+            "text" : "menu.multiplayer",
+			"texture" : "modpack:button.png",
+            "posX" : 3,
+            "posY" : 56,
+            "width" : 85,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -1,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "fml.menu.mods",
+			"texture" : "modpack:button.png",
+            "posX" : 3,
+            "posY" : 80,
+            "width" : 85,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -1,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "options":
+        {
+            "text" : "Options",
+			"texture" : "modpack:button.png",
+            "posX" : -90,
+            "posY" : 80,
+            "width" : 85,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -1,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+        
+        "quit":
+        {
+            "text" : "Exit",
+			"texture" : "modpack:button.png",
+            "posX" : -90,
+            "posY" : 152,
+            "width" : 85,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -1,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":0,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "Languages",
+			"texture" : "modpack:button.png",
+            "posX" : -90,
+            "posY" : 128,
+            "width" : 85,
+            "height" : 20,
+			"imageWidth" : 454,
+			"imageHeight" : 118,
+			"normalTextColor" : -1,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":0,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        },
+		"BisectHosting":
+        {
+            "text" : "Need a server?",
+			"texture" : "modpack:buttonbh.png",
+            "posX" : -90,
+            "posY" : 104,
+            "width" : 178,
+            "height" : 20,
+			"imageWidth" : 1007,
+			"imageHeight" : 118,
+			"normalTextColor" : -1,
+			"hoverTextColor" : 10027008,
+            "textOffsetY":0,
+			"textOffsetX":-20,
+            "tooltip": "Get a Server Today! Use Promo code KNIGHTDEXX",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://bisecthosting.com/KNIGHTDEXX"
+            }
+		},
+		"Discord":
+        {
+            "text" : "",
+            "posX" : 17,
+            "posY" : 128,
+            "width" : 22,
+            "height" : 20,
+			"imageWidth" : 139,
+			"imageHeight" : 118,
+            "tooltip": "Join my Discord!",
+			"texture" : "modpack:button_discord.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/JMqZhxk7gA"
+            }
+        },
+		"Github":
+        {
+            "text" : "",
+            "posX" : 17,
+            "posY" : 152,
+            "width" : 22,
+            "height" : 20,
+			"imageWidth" : 139,
+			"imageHeight" : 118,
+            "tooltip": "Any issue? Please report on my GitHub!",
+			"texture" : "modpack:button_github.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/DexxKnight1/Jurassic-World-Reborn-2-LITE/issues"
+            }
+        },
+		"Patreon":
+        {
+            "text" : "",
+            "posX" : 48,
+            "posY" : 128,
+            "width" : 22,
+            "height" : 20,
+			"imageWidth" : 139,
+			"imageHeight" : 118,
+            "tooltip": "Highly appreciate consideration!",
+			"texture" : "modpack:button_patreon.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.patreon.com/KnightDexx"
+            }
+        },
+		"CurseForge":
+        {
+            "text" : "",
+            "posX" : 48,
+            "posY" : 152,
+            "width" : 22,
+            "height" : 20,
+			"imageWidth" : 139,
+			"imageHeight" : 118,
+            "tooltip": "Check my other projects!",
+			"texture" : "modpack:button_forge.png",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.curseforge.com/members/dexxknight1/projects"
+            }
+        }	
+        
+    },
+	
+    
+    "labels":
+    {
+        "mojang":
+        {
+            "text" : "",
+            "posX" : -200,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        }
+    },
+    
+    "other":
+    {       
+        "background":
+        {
+            "image" : "modpack:background-lite.png",
+            "mode" : "fill"
+        }
+    }
+}
