@@ -68,7 +68,7 @@ Do you like to play **JWR 2 LITE** modpack with your friends and you need a host
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/xnet">XNet (by McJty)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chisel">Chisel (by tterrag1098)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/dank-null">/dank/null (by TheRealp455w0rd)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/fire-spread-tweaks">Fire Spread Tweaks (Forge) (by Serilum)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fire-spread-tweaks">Fire Spread Tweaks (by Serilum)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/akashic-tome">Akashic Tome (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest">The Twilight Forest (by Benimatic)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/controlling">Controlling (by Jaredlll08)</a></li>
@@ -256,6 +256,7 @@ Do you like to play **JWR 2 LITE** modpack with your friends and you need a host
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/the-one-probe">The One Probe (by McJty)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/more-sound-config">Sound Device Options (by ichttt)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chisels-bits">Chisels & Bits - For Forge (by AlgorithmX2)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fossils">Fossils and Archeology: Revival (by _ForgeUser18449974)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/thermal-innovation">Thermal Innovation (by TeamCoFH)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/waystones">Waystones (by BlayTheNinth)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/prehistoric-flora-integration">Prehistoric Nature Integration (by Aecht_Rob)</a></li>
