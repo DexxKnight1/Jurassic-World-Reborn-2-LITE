@@ -1,3 +1,22 @@
+# [JWR2LITE-v5.0.1] - 2023.03.08
+### Added
+- Added Adventure Tools
+- Added AI Improvements
+- Added Morpheus
+### Changed
+- Updated ArchitectureCraft
+- Updated AttributeFix
+- Updated Corail Tombstone
+- Updated CraftTweaker
+- Updated Entity Culling
+- Updated Just Enough Items (JEI)
+- Updated Prehistoric Nature
+- Updated ReAuth
+- Updated RenderLib
+- Updated Spartan Weaponry
+- Updated The Betweenlands
+### Removed
+- Removed Prehistoric Nature Integration
 # [JWR2LITE-v5.0.0] - 2023.01.15
 ### Added
 - Added Building Gadgets
