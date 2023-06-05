@@ -1,3 +1,24 @@
+# [JWR2LITE-v5.0.2] - 2023.06.05
+### Fixed
+- Fixed Game freezing on startup
+### Added
+- Added Phosphor Crash Fix
+### Changed
+- Updated BisectHosting Server Integration Menu
+- Updated CensoredASM
+- Updated Controlling
+- Updated Corail Tombstone
+- Updated CraftTweaker
+- Updated Entity Culling
+- Updated Just Enough Items (JEI)
+- Updated Lootr
+- Updated MixinBooter
+- Updated Prehistoric Nature
+- Updated RenderLib
+- Updated Spartan Weaponry
+- Updated The Betweenlands
+### Removed
+- Removed ModDirector
 # [JWR2LITE-v5.0.1] - 2023.03.08
 ### Added
 - Added Adventure Tools
