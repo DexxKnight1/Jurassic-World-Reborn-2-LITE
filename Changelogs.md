@@ -1,3 +1,26 @@
+# [JWR2LITE-v5.0.4] - 2023.12.25
+### Fixed
+- Fixed [Bug]: Crafting station bug #5
+### Added
+- Added Redirectionor [Retro]
+- Added Advancement Plaques
+- Added Let Me Despawn
+- Added Durability Tooltip
+### Changed
+- Updated Artifacts
+- Updated BisectHosting Server Integration Menu
+- Updated CensoredASM
+- Updated CraftTweaker
+- Updated CreativeCore
+- Updated Entity Culling
+- Updated HammerLib
+- Updated Lootr
+- Updated Prehistoric Nature
+- Updated SerializationIsBad
+### Removed
+- Removed Phosphor
+- Removed Phosphor Crash
+- Removed MixinBootstrap
 # [JWR2LITE-v5.0.3] - 2023.08.24
 ### Fixed
 - Fixed Spreadable plants to spread slower
