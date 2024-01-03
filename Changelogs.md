@@ -1,3 +1,12 @@
+# [JWR2LITE-v5.0.5] - 2024.01.03
+### Added
+- Added IO Endergy
+- Added VintageFix
+### Changed
+- Updated Electroblob's Wizardry
+### Removed
+- Removed FastFurnace
+- Removed FoamFix
 # [JWR2LITE-v5.0.4] - 2023.12.25
 ### Fixed
 - Fixed [Bug]: Crafting station bug #5
