@@ -27,7 +27,7 @@ These **JVM** arguments will optimize things and hopefully sort out a lot of lag
 *<sub>-Xmx8G -Xms6G -XX:+DisableExplicitGC -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+UseNUMA -XX:+CMSParallelRemarkEnabled -XX:MaxTenuringThreshold=15 -XX:MaxGCPauseMillis=30 -XX:GCPauseIntervalMillis=150 -XX:+UseAdaptiveGCBoundary -XX:-UseGCOverheadLimit -XX:+UseBiasedLocking -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90 -XX:MaxTenuringThreshold=15 -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:+UseFastAccessorMethods -XX:+UseCompressedOops -XX:+OptimizeStringConcat -XX:+AggressiveOpts -XX:ReservedCodeCacheSize=2048m -XX:+UseCodeCacheFlushing -XX:SoftRefLRUPolicyMSPerMB=10000 -XX:ParallelGCThreads=2</sub>*
 
 ## Features:
-- About 220+ mods
+- About 230+ mods
 - Jurassic World Reborn (JWR) mod has to offer 91 different creatures such as dinosaurs, marine reptiles, prehistoric fish, hybrids...
 - Fossils and Archeology offers archaeological aspect for the people who like to explore more or collect beautiful new blocks
 - Beautiful Prehistoric Nature with a lot of trees, plants, fossils and many other creatures
@@ -67,11 +67,11 @@ Do you like to play **JWR 2 LITE** modpack with your friends and you need a host
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/lootbags">LootBags (by Mina_the_Engineer)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod">MrCrayfish's Furniture Mod (by MrCrayfish)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/serializationisbad">SerializationIsBad (by Dogboy21)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/lolasm">CensoredASM (by Rongmario)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/openmodslib">OpenModsLib (by OpenMods)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/hesperus">燐/Hesperus (by kappa_maintainer)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/stacksize">Stacksize (by wwrpg1)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/bibliocraft">BiblioCraft (by Nuchaz)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/foamfix-optimization-mod">Foam​Fix (by asiekierka)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/bisecthosting-server-integration-menu-forge">BisectHosting Server Integration Menu [FORGE] (by BisectHosting)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/more-overlays">More Overlays (by feldim245)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ai-improvements">AI Improvements (by QueenOfMissiles)</a></li>
@@ -101,13 +101,16 @@ Do you like to play **JWR 2 LITE** modpack with your friends and you need a host
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/get-it-together-drops">Get It Together, Drops! (by bl4ckscor3)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cyclops-core">Cyclops Core (by kroeser)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/unloader">Unloader (by Unnoen)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/particle-culling">Particle Culling (by bl4ckscor3)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/xp-from-harvest">XP From Harvest (by ReaIGecko)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/adventure-tools">Adventure Tools (by SyntacticSplenda)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition">Spice of Life: Carrot Edition (by lordcazsius)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/dank-null">/dank/null (by TheRealp455w0rd)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/artifacts">Artifacts (by ochotonida)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fermiumbooter">FermiumBooter (by fonnymunkey)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/tinkers-addons">Tinkers' Addons (by oitsjustjose)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/sit">Sit (by bl4ckscor3)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/farsight">Farsight [Forge] (by someaddon)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy">Ender IO Endergy (by tterrag1098)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/initial-inventory">Initial Inventory (by Jaredlll08)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty">Biomes O' Plenty (by Forstride)</a></li>
@@ -131,6 +134,7 @@ Do you like to play **JWR 2 LITE** modpack with your friends and you need a host
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/spartan-weaponry">Spartan Weaponry (by ObliviousSpartan)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/randompatches-forge">RandomPatches (Forge) (by TheRandomLabs)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mixin-booter">MixinBooter (by CleanroomMC)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fermiumasm">FermiumASM (by fonnymunkey)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons">Refined Storage Addons (by raoulvdberge)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/spartan-shields">Spartan Shields (by ObliviousSpartan)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chisels-bits">Chisels & Bits - For Forge (by AlgorithmX2)</a></li>
@@ -148,7 +152,7 @@ Do you like to play **JWR 2 LITE** modpack with your friends and you need a host
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/top-extras">TOP Extras (by Tech22)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/electroblobs-wizardry">Electroblob's Wizardry (by Electroblob)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ranged-pumps">Ranged Pumps (by raoulvdberge)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/vintagefix">VintageFix (by embeddedt)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/better-biome-blend">Better Biome Blend (by FionaTheMortal)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/randomtweaks">RandomTweaks (by TheRandomLabs)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/moar-tinkers">Moar Tinkers (by AshuraNoYami)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay">Fast Leaf Decay (by olafskiii)</a></li>
@@ -159,8 +163,10 @@ Do you like to play **JWR 2 LITE** modpack with your friends and you need a host
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm">MmmMmmMmmMmm (Target Dummy) (by MehVahdJukaar)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chunkpregenerator">Chunk-Pregenerator (by Speiger)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8">CodeChicken Lib 1.8.+ (by covers1624)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap">MixinBootstrap (by LX_Gaming)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/fix-experience-bug">Fix Experience Bug (now with FABRIC and FORGE versions) (by MacTso)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/fastworkbench">FastWorkbench (by Shadows_of_Fire)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/nothirium">Nothirium (by meldexun)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/morpheus">Morpheus (by Quetzi)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge">FTB Ultimine (Forge) (by FTB)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/pams-cookables">Pam's Cookables - Pam's Harvestcraft Addon (by BloodWorkXGaming)</a></li>
@@ -189,7 +195,7 @@ Do you like to play **JWR 2 LITE** modpack with your friends and you need a host
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/equipment-tooltips">Equipment Tooltips (by SilentChaos512)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/custom-backgrounds">Custom Backgrounds (by Lumien231)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/xnet">XNet (by McJty)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/llibrary">LLibrary (by mmdlexiconn)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/llibrary">LLibrary (by MCModDev)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/extreme-reactors">Extreme Reactors (by ZeroNoRyouki)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/quark">Quark (by Vazkii)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/random-things">Random Things (by Lumien231)</a></li>
@@ -208,7 +214,6 @@ Do you like to play **JWR 2 LITE** modpack with your friends and you need a host
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/prehistoric-nature">Prehistoric Nature (by Aecht_Rob)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mekanism-generators">Mekanism Generators (by bradyaidanc)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/patchouli">Patchouli (by Vazkii)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/roboticparts">Robotic Parts (by An_Sar)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/betterfps">BetterFps (by Guichaguri)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cofh-world">CoFH World (by TeamCoFH)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip">Mod Name Tooltip (by mezz)</a></li>
@@ -225,12 +230,13 @@ Do you like to play **JWR 2 LITE** modpack with your friends and you need a host
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/torchmaster">Torchmaster (by xalcon)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/swingthroughgrass">SwingThroughGrass (by exidex)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/bookshelf">Bookshelf (by DarkhaxDev)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/lootr">Lootr (Forge) (by Noobanidus)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/lootr">Lootr (Forge & NeoForge) (by Noobanidus)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/no-mob-spawning-on-trees">No Mob Spawning on Trees (by oldjunyi)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/collective">Collective (by Serilum)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/discordrp">Discord Rich Presence (by ItsDizzy40)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/jurassic-world-reborn-mod">Jurassic World Reborn Mod (by vitiatejwr)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/my-server-is-compatible">My Server Is Compatible (by focamacho)</a></li>
+<li><a href="https://www.curseforge.com/minecraft/mc-mods/fastfurnace">FastFurnace (by Shadows_of_Fire)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/chest-transporter">Chest Transporter (by cubex2)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/cofh-core">CoFH Core (by TeamCoFH)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/in-control">In Control! (by McJty)</a></li>
@@ -265,7 +271,6 @@ Do you like to play **JWR 2 LITE** modpack with your friends and you need a host
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/integration-foregoing">Integration Foregoing (by Jacky)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/orelib">OreLib (by OreCruncher)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/let-me-despawn">Let Me Despawn (by frikinjay)</a></li>
-<li><a href="https://www.curseforge.com/minecraft/mc-mods/rewired">ReWIRED (by mallrat208)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/so-many-enchantments">So Many Enchantments (by ShelterRin)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/tesla-core-lib">Tesla Core Lib (by face_of_cat)</a></li>
 <li><a href="https://www.curseforge.com/minecraft/mc-mods/tinkers-jei">Tinker's JEI (by possible_triangle)</a></li>
