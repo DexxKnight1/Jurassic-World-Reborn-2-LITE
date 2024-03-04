@@ -1,3 +1,28 @@
+# [JWR2LITE-v5.0.6] - 2024.03.04
+### Added
+- Added FoamFix
+- Added FastFurnace
+- Added Farsight
+- Added Particle Culling
+- Added Nothirium
+- Added FermiumASM
+- Added FermiumBooter
+- Added Better Biome Blend
+### Changed
+- Updated Chunk-Pregenerator
+- Updated Corail Tombstone
+- Updated CraftTweaker
+- Updated Entity Culling
+- Updated HammerLib
+- Updated JourneyMap
+- Updated Jurassic World Reborn Mod
+- Updated Just Enough Items (JEI)
+- Updated RenderLib
+### Removed
+- Removed Robotic Parts
+- Removed ReWIRED
+- Removed VintageFix
+- Removed CensoredASM
 # [JWR2LITE-v5.0.5] - 2024.01.03
 ### Added
 - Added IO Endergy
