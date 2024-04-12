@@ -1,3 +1,21 @@
+# [JWR2LITE-v5.0.7] - 2024.04.12
+### Fixed
+- Fixed Minor issues
+### Added
+- Added VintageFix
+### Changed
+- Updated Chunk-Pregenerator
+- Updated Controlling
+- Updated Corail Tombstone
+- Updated Electroblob's Wizardry
+- Updated FermiumBooter
+- Updated JourneyMap
+- Updated Particle Culling
+- Updated Prehistoric Nature
+- Updated Redirectionor [Retro]
+- Updated SerializationIsBad
+### Removed
+- Removed FoamFix
 # [JWR2LITE-v5.0.6] - 2024.03.04
 ### Added
 - Added FoamFix
