@@ -1,3 +1,56 @@
+# [JWR2LITE-v5.1.2] - 2024.07.15
+### Fixed
+- Fixed Game preformance
+### Added
+- Added Macaw's Bridges
+- Added Macaw's Fences and Walls
+- Added Macaw's Paths and Pavings
+- Added Macaw's Roofs
+- Added Macaw's Windows
+- Added Prefab
+- Added Extra Bit Manipulation
+- Added Baubley Heart Canisters
+- Added Blockcraftery
+- Added MysticalLib
+- Added Modern Warfare Cubed
+- Added Security Craft
+- Added Alfheim Lighting Engine
+- Added Universal Tweaks
+### Changed
+- Updated Advanced Backups
+- Updated BisectHosting Server Integration Menu
+- Updated Controlling
+- Updated Corail Tombstone
+- Updated CraftTweaker
+- Updated Jurassic World Reborn Mod
+- Updated MixinBooter
+- Updated RenderLib
+### Removed
+- Removed The Betweenlands
+- Removed Electroblob's Wizardry
+- Removed Chunk-Pregenerator
+- Removed The Twilight Forest
+- Removed LootBags
+- Removed Techguns
+- Removed Improvable Skills 3
+- Removed HammerLib
+- Removed 燐/Hesperus
+- Removed Get It Together, Drops!
+- Removed AI Improvements
+- Removed AttributeFix
+- Removed Born in a Barn
+- Removed DEUF - Duplicate Entity UUID Fix
+- Removed DupeFix Project
+- Removed Fast Leaf Decay
+- Removed FastWorkbench
+- Removed Fence Jumper
+- Removed Fix Experience Bug
+- Removed Let Me Despawn
+- Removed No Recipe Book
+- Removed SwingThroughGrass
+- Removed Tinkers OreDict Cache
+- Removed Toast Control
+- Removed Unloader
 # [JWR2LITE-v5.1.0] - 2024.05.27
 ### Changed
 - Updated CraftTweaker
