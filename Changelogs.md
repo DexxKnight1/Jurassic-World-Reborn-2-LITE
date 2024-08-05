@@ -1,3 +1,12 @@
+# [JWR2LITE-v5.1.3] - 2024.08.05
+### Added
+- Added RLFoliage
+- Added ChunkGenLimiter
+### Changed
+- Updated Jurassic Reborn
+- Updated Prehistoric Nature
+- Updated Spartan Weaponry
+- Updated VintageFix
 # [JWR2LITE-v5.1.2] - 2024.07.15
 ### Fixed
 - Fixed Game preformance
