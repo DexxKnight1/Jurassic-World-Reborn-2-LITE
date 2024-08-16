@@ -1,3 +1,12 @@
+# [JWR2LITE-v5.1.4] - 2024.08.16
+### Fixed
+- Fixed [Bug]: Enchantment table & brewing stand #2
+### Changed
+- Updated BisectHosting Server Integration Mod
+- Updated Jurassic Reborn
+- Updated MixinBooter
+- Updated Red Core
+- Updated Storage Drawers
 # [JWR2LITE-v5.1.3] - 2024.08.05
 ### Added
 - Added RLFoliage
