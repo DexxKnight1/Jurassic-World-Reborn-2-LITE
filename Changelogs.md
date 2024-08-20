@@ -1,3 +1,9 @@
+# [JWR2LITE-v5.1.5] - 2024.08.21
+### Changed
+- Updated Alfheim Lighting Engine
+- Updated Jurassic Reborn
+- Updated MixinBooter
+- Updated Modern Warfare Cubed
 # [JWR2LITE-v5.1.4] - 2024.08.16
 ### Fixed
 - Fixed [Bug]: Enchantment table & brewing stand #2
