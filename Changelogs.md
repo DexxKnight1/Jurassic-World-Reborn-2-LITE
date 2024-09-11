@@ -1,15 +1,3 @@
-# [JWR2LITE-v5.1.6] - 2024.09.09
-### Fixed
-- Fixed Random crash caused by Prehistoric Nature mod
-### Added
-- Added JEI Area Fixer
-- Added XU2 Patcher
-- Added StellarCore
-### Changed
-- Updated Advanced Backups
-- Updated Alfheim Lighting Engine
-- Updated FermiumBooter
-- Updated Redirectionor [Retro]
 # [JWR2LITE-v5.1.5] - 2024.08.21
 ### Changed
 - Updated Alfheim Lighting Engine
