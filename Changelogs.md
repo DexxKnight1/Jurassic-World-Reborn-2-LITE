@@ -1,3 +1,10 @@
+# [JWR2LITE-v5.1.8] - 2024.10.17
+### Changed
+- Updated Corail Tombstone
+- Updated JEI Area Fixer
+- Updated Prehistoric Nature
+- Updated Security Craft
+- Updated StellarCore
 # [JWR2LITE-v5.1.7] - 2024.09.26
 ### Fixed
 - Fixed Random crash caused by Prehistoric Nature mod
